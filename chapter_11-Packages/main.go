@@ -12,4 +12,5 @@ func main() {
 	avg := math.Average(xs)
 	fmt.Println(avg)
 	say.Durp("peter")
+	say.Durp("new")
 }
